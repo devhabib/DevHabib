@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/devhabib">
-<img src="https://github-readme-stats.vercel.app/api?username=devhabib&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=2300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devhabib&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=3200"/>
 </a>
 </p>
 <br>
