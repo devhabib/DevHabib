@@ -18,13 +18,14 @@
 <br>
 
 # 🔭 I’m currently working on 
-- [x] AngularJS
+- [x] Angular
 - [x] JavaScript
 - [x] typeScript
 - [x] jQuery
 
 # 💬 Ask me about ...
 - [x] Javascript
+- [x] jQuery
 - [x] HTML
 - [x] CSS
 - [x] SCSS
@@ -32,7 +33,7 @@
 - [ ] Also you can just say **Hi** to ```me ```
 
 # 🌱 I’m currently learning
-- [ ] NgRx
+- [ ] VueJS
 
 # 📫 How to reach me:
 - [x] [personal Email](contact@devhabib.com)
